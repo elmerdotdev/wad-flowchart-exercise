@@ -47,21 +47,3 @@ Write an algorithm and draw a flowchart that will read three numbers and prints 
 Write an algorithm and draw a flowchart to check the three number inputs whether a triangle is possible or not.
 
 ### _Answer_
-
-## Exercise 5
-
-Draw the flowchart for the following:
-
-Accept the name and marks obtained by a student in Computer Project.
-
-Display the grades as per the table given below:
-
-| Marks obtained                | Grade    |
-| ----------------------------- | -------- |
-| 80% or more                   | A        |
-| 60% or more but less than 80% | B        |
-| 40% or more but less than 60% | C        |
-| Less than 40%                 | No Grade |
-
-### _Answer_
-
